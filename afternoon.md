@@ -13,18 +13,19 @@
   - [база](places/mars_baza.md)
   - [плантации](places/mars_plantacii.md)
     - [башня](places/mars_plantacii_bashnya.md)
+    - [биостанция](places/mars_plantacii_biostantsiya.md)
   - [солончаковая равнина](places/mars_solonchak.md)
 
 Персонажи:
 - [люди](persons/chelovek.md):
+  - [Галя](persons/galya.md)
   - [Иванченко](persons/ivanchenko.md)
-  - [Ирина](persons/irina.md)
   - [Мандель Лазарь Григорьевич](persons/mandel_lazar_grigorevich.md) — врач хирург
-  - [Марк](persons/mark.md)
   - [Новаго Пётр Алексеевич](persons/novago_petr_alekseevich.md) — врач-терапевт
   - [профессор медицины](persons/professor.md)
   - [ребёнок](persons/rebenok.md)
-  - [Славин](persons/slavin.md)
+  - [Славин Марк](persons/slavin_mark.md)
+  - [Славина Ирина](persons/slavina_irina.md)
   - [следопыты](persons/sledopyty.md)
     - [Гемфри Морган](persons/gemfri_morgan.md)
     - [Опанасенко](persons/opanasenko.md)
@@ -40,6 +41,7 @@
 - [кислородная маска](technology/kislorodnaya_maska.md)
 - [кислородные баллоны](technology/pers_kislorodnye_balony.md)
 - [краулер типа "Ящерица"](technology/krauler_tipa_yashcherica.md)
+- [наушники](technology/naushniki.md)
 - одежда:
   - [доха](technology/doha.md)
   - [меховые перчатки](technology/mehovye_perchatki.md)

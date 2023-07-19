@@ -12,13 +12,13 @@
 - [кактусы](../persons/cactus.md)
 - [люди](../persons/chelovek.md)
   - [Иванченко](../persons/ivanchenko.md)
-  - [Ирина](../persons/irina.md)
   - [Мандель Лазарь Григорьевич](../persons/mandel_lazar_grigorevich.md) — врач
   - [Новаго Пётр Алексеевич](../persons/novago_petr_alekseevich.md) — врач
+  - [Славин Марк](../persons/slavin_mark.md)
+  - [Славина Ирина](../persons/slavina_irina.md)
   - [следопыты](../persons/sledopyty.md)
     - [Гемфри Морган](../persons/gemfri_morgan.md)
     - [Опанасенко](../persons/opanasenko.md)
-  - [Славин](../persons/slavin.md)
 - [мимикродоны](../persons/mimikrodon.md)
 
 Технологии:
@@ -27,6 +27,7 @@
 - [кислородная маска](../technology/kislorodnaya_maska.md)
 - [кислородные баллоны](../technology/pers_kislorodnye_balony.md)
 - [краулер типа "Ящерица"](../technology/krauler_tipa_yashcherica.md)
+- [наушники](../technology/naushniki.md)
 - одежда:
   - [доха](../technology/doha.md)
   - [меховые перчатки](../technology/mehovye_perchatki.md)
@@ -40,6 +41,7 @@
 - [база](mars_baza.md)
 - [плантации](mars_plantacii.md)
   - [башня](mars_plantacii_bashnya.md)
+  - [биостанция](mars_plantacii_biostantsiya.md)
 - [солончаковая равнина](mars_solonchak.md)
 
 Упоминание:

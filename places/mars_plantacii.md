@@ -8,6 +8,11 @@
 
 Локации:
 - [башня](mars_plantacii_bashnya.md)
+- [биостанция](mars_plantacii_biostantsiyz.md)
+
+Персонажи:
+- [Славин Марк](../persons/slavin_mark.md)
+- [Славина Ирина](../persons//slavina_irina.md)
 
 Технологии:
 - [вездеход](../technology/vezdehod.md)

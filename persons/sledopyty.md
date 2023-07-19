@@ -11,6 +11,7 @@
 Технологии:
 - оружие:
   - [карабин](../technology/karabin.md)
+  - [наушники](technology/naushniki.md)
 
 Локации:
 - [Марс](../places/mars.md)
