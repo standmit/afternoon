@@ -6,7 +6,7 @@
 
 Контакты:
 - [Славин Марк](slavin_mark.md) — ребёнок
-- [Славина Ирина](slavina_irina.md) — ребёнок
+- [Славина Ирина Викторовна](slavina_irina_viktorovna.md) — ребёнок
 
 Упоминание:
 - [Ночь на Марсе](../literature/noch_na_marse.md)

@@ -15,7 +15,7 @@
     - Шёл под его охраной на [марсианские плантации](../places/mars_plantacii.md)
   - [Новаго Пётр Алексеевич](novago_petr_alekseevich.md)
     - Вместе направлялись на [марсианские плантации](../places/mars_plantacii.md) для приёма родов у [Ирины](irina.md)
-  - [Опанасенко](opanasenko.md)
+  - [Опанасенко Фёдор Александрович](opanasenko_fedor_aleksandrovich.md)
     - Шёл под его охраной на [марсианские плантации](../places/mars_plantacii.md)
   - [Славин Марк](slavin_mark.md)
 - [мимикродон](mimikrodon.md) — встреча на бархане

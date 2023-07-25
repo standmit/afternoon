@@ -4,8 +4,10 @@
 Носимый прибор ночного видения.
 
 Пользователи:
-- [Новаго Пётр Алексеевич](../persons/novago_petr_alekseevich.md)
+- [Гемфри Морган](../persons/gemfri_morgan.md)
 - [Мандель Лазарь Григорьевич](../persons/mandel_lazar_grigorevich.md)
+- [Новаго Пётр Алексеевич](../persons/novago_petr_alekseevich.md)
+- [Опанасенко Фёдор Александрович](../persons/opanasenko_fedor_aleksandrovich.md)
 
 Локации:
 - [Марс](../places/mars.md)

@@ -11,10 +11,10 @@ Homo sapiens.
 - [профессор](professor.md)
 - [ребёнок](rebenok.md)
 - [Славин Марк](slavin_mark.md)
-- [Славина Ирина](slavina_irina.md)
+- [Славина Ирина Викторовна](slavina_irina_viktorovna.md)
 - [следопыты](sledopyty.md)
   - [Гемфри Морган](gemfri_morgan.md)
-  - [Опанасенко](opanasenko.md)
+  - [Опанасенко Фёдор Александрович](opanasenko_fedor_aleksandrovich.md)
 
 Локации:
 - [Марс](../places/mars.md)

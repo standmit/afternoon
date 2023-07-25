@@ -13,11 +13,11 @@
   - [Иванченко](ivanchenko.md) — взял краулер в рассказе ["Ночь на Марсе"](../literature/noch_na_marse.md), организация центрифуги для [первого ребёнка на Марсе](rebenok.md)
   - [Мандель Лазарь Григорьевич](mandel_lazar_grigorevich.md)
     - Вместе направлялись на [марсианские плантации](../places/mars_plantacii.md) для приёма родов у [Ирины](irina.md)
-  - [Опанасенко](opanasenko.md)
+  - [Опанасенко Фёдор Александрович](opanasenko_fedor_aleksandrovich.md)
     - Шёл под его охраной на [марсианские плантации](../places/mars_plantacii.md)
   - [профессор](professor.md) — под его руководством принимал роды в [лучшей поликлинике Архангельска](../places/luchshaya_poliklinika_arhangelska.md) за 10 лет до событий рассказа ["Ночь на Марсе"](../literature/noch_na_marse.md)
   - [Славин Марк](slavin_mark.md)
-  - [Славина Ирина](slavina_irina.md)
+  - [Славина Ирина Викторовна](slavina_irina_viktorovna.md)
 - [мимикродон](mimikrodon.md) — встреча на бархане в рассказе ["Ночь на Марсе"](../literature/noch_na_marse.md)
 
 Технологии:

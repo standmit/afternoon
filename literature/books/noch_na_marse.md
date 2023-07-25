@@ -89,7 +89,7 @@
 
 — Прекрасен, горд и невозмутим, — заметил [Мандель](../../persons/mandel_lazar_grigorevich.md).
 
-— [Ирина](../../persons/slavina_irina.md) говорит, что их очень много на [плантациях](../../places/mars_plantacii.md), — сказал [Новаго](../../persons/novago_petr_alekseevich.md). — Она их подкармливает…
+— [Ирина](../../persons/slavina_irina_viktorovna.md) говорит, что их очень много на [плантациях](../../places/mars_plantacii.md), — сказал [Новаго](../../persons/novago_petr_alekseevich.md). — Она их подкармливает…
 
 Они, не сговариваясь, прибавили шаг.
 
@@ -189,7 +189,7 @@
 [Марк](../../persons/slavin_mark.md), наверное, места уже не находит.
 То и дело бегает на [башню](../../places/mars_plantacii_bashnya.md) поглядеть, не едут ли долгожданные врачи.
 А долгожданные врачи тащатся пешком по ночной пустыне.
-[Ирина](../../persons/slavina_irina.md) успокаивает его, но тоже, конечно, волнуется.
+[Ирина](../../persons/slavina_irina_viktorovna.md) успокаивает его, но тоже, конечно, волнуется.
 Это у них первый [ребенок](../../persons/rebenok.md), и [первый ребенок](../../persons/rebenok.md) здесь, на Марсе, первый марсианин…
 Она очень здоровая и уравновешенная женщина!
 Но на их месте я бы воздержался от ребёнка.
@@ -205,7 +205,7 @@
 
 Другой, короткий, почти квадратный, закинул [карабин](../../technology/karabin.md) за плечо и помахал рукой.
 
-— Эге, — сказал [Новаго](../../persons/novago_petr_alekseevich.md) с облегчением. — А ведь это [Опанасенко](../../persons/opanasenko.md) и канадец [Морган](../../persons/gemfri_morgan.md). Эхой, товарищи! — радостно заорал он.
+— Эге, — сказал [Новаго](../../persons/novago_petr_alekseevich.md) с облегчением. — А ведь это [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) и канадец [Морган](../../persons/gemfri_morgan.md). Эхой, товарищи! — радостно заорал он.
 
 — Какая встреча! — сказал, подходя, долговязый [Гэмфри Морган](../../persons/gemfri_morgan.md).
 
@@ -213,7 +213,7 @@
 
 — Добрый вечер, доктор, — повторил он, пожимая руку [Новаго](../../persons/novago_petr_alekseevich.md).
 
-— Здравствуйте, товарищи, — прогудел [Опанасенко](../../persons/opanasenko.md). — Какими судьбами?
+— Здравствуйте, товарищи, — прогудел [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Какими судьбами?
 
 Прежде чем [Новаго](../../persons/novago_petr_alekseevich.md) успел ответить, [Морган](../../persons/gemfri_morgan.md) неожиданно сказал:
 
@@ -225,7 +225,7 @@
 
 — Что это вы так странно изъясняетесь, [Гэмфри](../../persons/gemfri_morgan.md)? — осведомился сбитый с толку [Мандель](../../persons/mandel_lazar_grigorevich.md).
 
-[Опанасенко](../../persons/opanasenko.md) схватил [Моргана](../../persons/gemfri_morgan.md) за край капюшона, притянул к себе и закричал ему прямо в ухо:
+[Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) схватил [Моргана](../../persons/gemfri_morgan.md) за край капюшона, притянул к себе и закричал ему прямо в ухо:
 
 — Все не так, [Гэмфри](../../persons/gemfri_morgan.md)! Ты проспорил!
 
@@ -234,17 +234,17 @@
 — Он говорит, что и так знает, что ему могут сказать. Мы спорили, и он проиграл. Теперь он будет пять раз чистить мой [карабин](../../technology/karabin.md).
 
 [Морган](../../persons/gemfri_morgan.md) засмеялся и сообщил, что [девушка Галя](../../persons/galya.md) с [базы](../../places/mars_baza.md) здесь совершенно ни при чем.
-[Опанасенко](../../persons/opanasenko.md) безнадежно махнул рукой и спросил:
+[Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) безнадежно махнул рукой и спросил:
 
 — Вы, конечно, на [плантации](../../places/mars_plantacii.md), на [биостанцию](../../places/mars_plantacii_biostantsiya.md)?
 
 — Да, — сказал [Новаго](../../persons/novago_petr_alekseevich.md). — К Славиным.
 
-— Ну, правильно, — сказал [Опанасенко](../../persons/opanasenko.md). — Они вас очень ждут. А почему пешком?
+— Ну, правильно, — сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Они вас очень ждут. А почему пешком?
 
 — О, какая досада! — виновато сказал [Морган](../../persons/gemfri_morgan.md). — Не могу слышать совсем ничего.
 
-[Опанасенко](../../persons/opanasenko.md) опять притянул его к себе и крикнул:
+[Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) опять притянул его к себе и крикнул:
 
 — Подожди, [Гэмфри](../../persons/gemfri_morgan.md)! Потом расскажу!
 
@@ -253,22 +253,58 @@
 
  — Мы потопили [краулер](../../technology/krauler_tipa_yashcherica.md), — сказал [Новаго](../../persons/novago_petr_alekseevich.md).
 
-— Где? — быстро спросил [Опанасенко](../../persons/opanasenko.md). — Каверна?
+— Где? — быстро спросил [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Каверна?
 
 — Каверна. На [трассе](../../places/mars_trassa.md), примерно сороковой километр.
 
-— Каверна! — радостно сказал [Опанасенко](../../persons/opanasenko.md). — Слышишь, [Гэмфри](../../persons/gemfri_morgan.md)? Еще одна каверна!
+— Каверна! — радостно сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Слышишь, [Гэмфри](../../persons/gemfri_morgan.md)? Еще одна каверна!
 
 [Гэмфри Морган](../../persons/gemfri_morgan.md) стоял к ним спиной и вертел головой в капюшоне, разглядывая темнеющие барханы.
 
-— Ладно, — сказал [Опанасенко](../../persons/opanasenko.md). — Это после. Так вы потопили [краулер](../../technology/krauler_tipa_yashcherica.md) и решили идти пешком? А оружие у вас есть?
+— Ладно, — сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Это после. Так вы потопили [краулер](../../technology/krauler_tipa_yashcherica.md) и решили идти пешком? А оружие у вас есть?
 
 [Мандель](../../persons/mandel_lazar_grigorevich.md) похлопал себя по ноге.
 
 — А как же, — сказал он.
 
-— Та-ак, — сказал [Опанасенко](../../persons/opanasenko.md). — Придется вас проводить. [Гэмфри](../../persons/gemfri_morgan.md)! Черт, не слышит…
+— Та-ак, — сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Придется вас проводить. [Гэмфри](../../persons/gemfri_morgan.md)! Черт, не слышит…
 
 — Погодите, — сказал [Мандель](../../persons/mandel_lazar_grigorevich.md). — Зачем это?
 
-— Она где-то здесь, — сказал [Опанасенко](../../persons/opanasenko.md). — Мы видели следы.
+— Она где-то здесь, — сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — Мы видели следы.
+
+[Мандель](../../persons/mandel_lazar_grigorevich.md) и [Новаго](../../persons/novago_petr_alekseevich.md) переглянулись.
+
+— Вам, разумеется, виднее, [Фёдор Александрович](../../persons/opanasenko_fedor_aleksandrovich.md), — нерешительно сказал [Новаго](../../persons/novago_petr_alekseevich.md), — но я полагал… В конце концов мы вооружены.
+
+— Сумасшедшие, — убежденно сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — У вас там, на [базе](../../places/mars_baza.md), все какие-то, извините, блаженные. Предупреждаем, объясняем — и вот, пожалуйста. Ночью. Через пустыню. С [пистолетами](../../technology/pistolet.md). Вам что, [Хлебникова](../../persons/hlebnikov.md) мало?
+
+[Мандель](../../persons/mandel_lazar_grigorevich.md) пожал плечами.
+
+— По-моему, в данном случае… — начал он, но тут [Морган](../../persons/gemfri_morgan.md) сказал: "ти-хо!", И [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) мгновенно сорвал с плеча [карабин](../../technology/karabin.md) и встал рядом с [канадцем](../../persons/gemfri_morgan.md).
+
+[Новаго](../../persons/novago_petr_alekseevich.md) тихонько крякнул и потянул из [унта](../../technology/unty.md) [пистолет](../../technology/pistolet.md).
+
+Солнце уже почти скрылось — над чёрными зубчатыми силуэтами дюн светилась узкая жёлто-зелёная полоска.
+Всё небо стало чёрным, и звёзд было очень много.
+Звёздный блеск лежал на стволах [карабинов](../../technology/karabin.md), и было видно, как стволы медленно двигаются направо и налево.
+
+Потом [Гэмфри](../../persons/gemfri_morgan.md) сказал: "Ошибка. Прошу прощения", и все сразу зашевелились. [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md) крикнул на ухо [Моргану](../../persons/gemfri_morgan.md):
+
+ — [Гэмфри](../../persons/gemfri_morgan.md), они идут на [биостанцию](../../places/mars_plantacii_biostantsiya.md) к [Ирине Викторовне](../../persons/slavina_irina_viktorovna.md)! Надо проводить!
+
+ — Гуд. Я иду, — сказал [Морган](../../persons/gemfri_morgan.md).
+
+ — Мы идем вместе! — крикнул [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md).
+
+ — Гуд. Идем вместе.
+
+ Врачи все еще держали в руках [пистолеты](../../technology/pistolet.md). [Морган](../../persons/gemfri_morgan.md) повернулся к ним, всмотрелся и воскликнул:
+
+ — О, это не нужно! Это спрятать.
+
+ — Да-да, пожалуйста, — сказал [Опанасенко](../../persons/opanasenko_fedor_aleksandrovich.md). — И не вздумайте стрелять. И наденьте [очки](../../technology/infrakrasnye_ochki.md).
+
+ [Следопыты](../../persons/sledopyty.md) были уже в [инфракрасных очках](../../technology/infrakrasnye_ochki.md).
+ [Мандель](../../persons/mandel_lazar_grigorevich.md) стыдливо сунул [пистолет](../../technology/pistolet.md) в глубокий карман [дохи](../../technology/doha.md) и перехватил саквояж в правую руку.
+ [Новаго](../../persons/novago_petr_alekseevich.md) помедлил немного, затем снова отпустил [пистолет](../../technology/pistolet.md) за отворот левого [унта](../../technology/unty.md).

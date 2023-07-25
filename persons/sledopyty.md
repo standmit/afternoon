@@ -6,7 +6,7 @@
 
 Персонажи:
 - [Гемфри Морган](gemfri_morgan.md)
-- [Опанасенко](opanasenko.md)
+- [Опанасенко Фёдор Александрович](opanasenko_fedor_aleksandrovich.md)
 
 Технологии:
 - оружие:

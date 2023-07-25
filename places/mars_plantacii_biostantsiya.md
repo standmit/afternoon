@@ -5,7 +5,7 @@
 
 Персонажи:
 - [Славин Марк](../persons/slavin_mark.md)
-- [Славина Ирина](../persons/slavina_irina.md)
+- [Славина Ирина Викторовна](../persons/slavina_irina_viktorovna.md)
 
 Упоминание:
 - [Ночь на Марсе](../literature/noch_na_marse.md)

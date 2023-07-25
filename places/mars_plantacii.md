@@ -12,7 +12,7 @@
 
 Персонажи:
 - [Славин Марк](../persons/slavin_mark.md)
-- [Славина Ирина](../persons//slavina_irina.md)
+- [Славина Ирина Викторовна](../persons//slavina_irina_viktorovna.md)
 
 Технологии:
 - [вездеход](../technology/vezdehod.md)
