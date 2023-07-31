@@ -5,6 +5,7 @@
 Врач хирург.
 На момент событий рассказа ["Ночь на Марсе"](../literature/noch_na_marse.md) уже несколько раз принимал роды.
 За день до событий рассказа ["Ночь на Марсе"](../literature/noch_na_marse.md) проводил операцию.
+В прошлом несколько лет работал на [арктических станциях](../places/arkticheskie_stancii.md).
 
 Контакты:
 - [кактус](cactus.md)
@@ -29,6 +30,8 @@
 - [пистолет](../technologies/pistolet.md)
 
 Локации:
+- [Земля](../places/zemlya.md)
+  - [арктические станции](../places/arkticheskie_stancii.md)
 - [Марс](../places/mars.md)
   - [солончаковая равнина](../places/mars_solonchak.md)
 

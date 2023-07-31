@@ -5,6 +5,7 @@ Homo sapiens.
 
 Представители:
 - [Галя](galya.md)
+- [геологи](geologi.md)
 - [Иванченко](ivanchenko.md)
 - [Мандель Лазарь Гриогрьевич](mandel_lazar_grigorevich.md)
 - [Новаго Пётр Алексеевич](novago_petr_alekseevich.md)
@@ -15,6 +16,7 @@ Homo sapiens.
 - [следопыты](sledopyty.md)
   - [Гемфри Морган](gemfri_morgan.md)
   - [Опанасенко Фёдор Александрович](opanasenko_fedor_aleksandrovich.md)
+- [Хасэгава](hasegava.md)
 
 Локации:
 - [Марс](../places/mars.md)
